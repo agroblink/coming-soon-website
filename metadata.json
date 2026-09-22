@@ -1,0 +1,6 @@
+{
+  "name": "Agro Blink Pvt. Ltd.",
+  "description": "Technology Reimagined. The official launch portal for Agro Blink Pvt. Ltd., building next-generation intelligent systems and digital infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
